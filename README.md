@@ -1,4 +1,4 @@
-# Live2D API
+# Live2D API 来自<https://github.com/fghrsh/live2d_api>
 
 Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
 
