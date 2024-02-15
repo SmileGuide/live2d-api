@@ -1,5 +1,7 @@
 {
     "models": [
+        ["whitecat","blackcat"],
+        "wango"
         "index",
         "Potion-Maker/Pio",[
             "ShizukuTalk/shizuku-48",
@@ -24,15 +26,16 @@
             "HyperdimensionNeptunia/histoire",
             "HyperdimensionNeptunia/histoirenohover"
         ],
-        "miku",
-        ["whitecat","blackcat"]],
+        "miku"
+        ],
     "messages": [
+        "我是猫，有两色",
+        "Hello~ 我是Wango",
         "我是来自《魔法禁书目录》的茵蒂克丝（Index）",
         "来自 Potion Maker 的 Pio~",
         "Shizuku Talk！这里是Shizuku~",
         "我来自 Bilibili Live",
         "Nep! Nep! 超次元游戏：海王星 系列",
-        "我是初音ミク",
-        "我是猫"
+        "我是初音ミク"
     ]
 }
