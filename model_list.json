@@ -1,33 +1,35 @@
 {
-    "models": [
-        ["whitecat","blackcat"],
-        "wango"
-        "index",
-        "Potion-Maker/Pio",[
-            "ShizukuTalk/shizuku-48",
-            "ShizukuTalk/shizuku-pajama"
-        ],[
-            "bilibili-live/22",
-            "bilibili-live/33"
-        ],[
-            "HyperdimensionNeptunia/neptune_classic",
-            "HyperdimensionNeptunia/nepnep",
-            "HyperdimensionNeptunia/neptune_santa",
-            "HyperdimensionNeptunia/nepmaid",
-            "HyperdimensionNeptunia/noir_classic",
-            "HyperdimensionNeptunia/noir",
-            "HyperdimensionNeptunia/noir_santa",
-            "HyperdimensionNeptunia/blanc_classic",
-            "HyperdimensionNeptunia/blanc_normal",
-            "HyperdimensionNeptunia/vert_classic",
-            "HyperdimensionNeptunia/vert_normal",
-            "HyperdimensionNeptunia/nepgear",
-            "HyperdimensionNeptunia/nepgear_extra",
-            "HyperdimensionNeptunia/histoire",
-            "HyperdimensionNeptunia/histoirenohover"
-        ],
-        "miku"
-        ],
+    "models": [[
+        "whitecat",
+        "blackcat"
+    ],
+    "wango"
+    "index",
+    "Potion-Maker/Pio",[
+        "ShizukuTalk/shizuku-48",
+        "ShizukuTalk/shizuku-pajama"
+    ],[
+        "bilibili-live/22",
+        "bilibili-live/33"
+    ],[
+        "HyperdimensionNeptunia/neptune_classic",
+        "HyperdimensionNeptunia/nepnep",
+        "HyperdimensionNeptunia/neptune_santa",
+        "HyperdimensionNeptunia/nepmaid",
+        "HyperdimensionNeptunia/noir_classic",
+        "HyperdimensionNeptunia/noir",
+        "HyperdimensionNeptunia/noir_santa",
+        "HyperdimensionNeptunia/blanc_classic",
+        "HyperdimensionNeptunia/blanc_normal",
+        "HyperdimensionNeptunia/vert_classic",
+        "HyperdimensionNeptunia/vert_normal",
+        "HyperdimensionNeptunia/nepgear",
+        "HyperdimensionNeptunia/nepgear_extra",
+        "HyperdimensionNeptunia/histoire",
+        "HyperdimensionNeptunia/histoirenohover"
+    ],
+    "miku"
+],
     "messages": [
         "我是猫，有两色",
         "Hello~ 我是Wango",
