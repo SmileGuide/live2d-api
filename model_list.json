@@ -5,7 +5,8 @@
         "blackcat"],
     "wango",
     "index",
-    "Potion-Maker/Pio",[
+    "Potion-Maker/Pio",
+    [
         "ShizukuTalk/shizuku-48",
         "ShizukuTalk/shizuku-pajama"
     ],[
@@ -30,7 +31,7 @@
     ],
     "miku",
     "haruto",
-    "koharu",
+    "koharu"
 ],
 
     "messages": [
