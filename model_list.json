@@ -1,9 +1,9 @@
 {
-    "models": [[
+    "models": [
+        [
         "whitecat",
-        "blackcat"
-    ],
-    "wango"
+        "blackcat"],
+    "wango",
     "index",
     "Potion-Maker/Pio",[
         "ShizukuTalk/shizuku-48",
