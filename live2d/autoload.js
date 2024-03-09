@@ -35,7 +35,7 @@ if (screen.width >= 768) {
 		initWidget({
 			waifuPath: live2d_path + "waifu-tips.json",
 	//		apiPath: "https://live2dapi.karlukle.site/",
-			cdnPath: "https://live2dapi.karlukle.site/",
+			cdnPath: "https://live2d.api.karlukle.site/",
 			tools: ["hitokoto", "asteroids", "switch-model", "switch-texture", "photo", "info", "quit"]
 		});
 	});}
@@ -49,7 +49,7 @@ if (screen.width >= 768) {
 		initWidget({
 			waifuPath: live2d_path + "waifu-tips.json",
 	//		apiPath: "https://live2dapi.karlukle.site/",
-			cdnPath: "https://live2dapi.karlukle.site/",
+			cdnPath: "https://live2d.api.karlukle.site/",
 			tools: ["hitokoto", "switch-model", "switch-texture", "photo", "info", "quit"]
 		});
 	});
