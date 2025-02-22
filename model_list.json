@@ -2,10 +2,10 @@
     "models": [
     "miku",
     "wango",
+                    [
+    "whitecat",
+    "blackcat"],
     "index",
-                [
-        "whitecat",
-        "blackcat"],
     "Potion-Maker/Pio",
     [
         "ShizukuTalk/shizuku-48",
@@ -35,8 +35,7 @@
     "messages": [
         "我是会说话的初音ミク~",
         "Hello~ 我是Wango",
-        "我是猫~",
-        "Hello~ 我是Wango",
+        "我是猫~有两种颜色哦，变身试试吧",
         "我是茵蒂克丝~",
         "来自 Potion Maker 的 Pio~",
         "Shizuku Talk！这里是Shizuku~",
