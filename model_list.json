@@ -1,5 +1,6 @@
 {
     "models": [
+    "koharu",
     "miku",
     "wango",
                     [
@@ -28,11 +29,11 @@
         "HyperdimensionNeptunia/histoirenohover"
     ],
 
-    "haruto",
-    "koharu"
+    "haruto"
 ],
 
     "messages": [
+        "我是Koharu",
         "我是初音ミク~",
         "Hello~ 我是Wango",
         "我是猫~有两种颜色哦，变身试试吧",
@@ -41,7 +42,6 @@
         "Shizuku Talk！这里是Shizuku~",
         "我来自 Bilibili Live，有两种造型哦~",
         "Nep! Nep! 超次元：海王星 系列~ 有多种造型哦，变身试试吧",
-        "我是Haruto",
-        "我是Koharu"
+        "我是Haruto"
     ]
 }
